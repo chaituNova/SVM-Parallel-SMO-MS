@@ -9,7 +9,7 @@ The MPI SMO algorithm was implemented with the help from papers [1](http://keert
 The report describing the performance improvements by parallelizing the SMO and MS is [here](https://drive.google.com/open?id=0B2Shb2I8kvJPeUZwaWZkWElkOGc).
 
 ## Usage
-###Requirements:
+Requirements:
 The following should be installed in your computer (preferably linux)
 1) OpenMPI (for MPI cluster)
 2) OpenMP 
