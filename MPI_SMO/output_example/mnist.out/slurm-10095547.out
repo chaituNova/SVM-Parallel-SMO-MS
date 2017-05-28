@@ -1,0 +1,112 @@
+openmpi/gnu/4.8.1/1.8.6(12):ERROR:150: Module 'openmpi/gnu/4.8.1/1.8.6' conflicts with the currently loaded module(s) 'openmpi/gnu/4.6.1/1.6.5'
+openmpi/gnu/4.8.1/1.8.6(12):ERROR:102: Tcl command execution failed: source "$moduledir/../../common"
+
+dtst:0 node:32 proc:32
+Training Vector size: 60000
+Training Vector feature dimension: 784
+Training Label Vector size: 60000
+Test Vector size: 10000
+Test Vector feature dimension: 784
+Test Label Vector size: 10000
+Extraction done !, no of training examples (N): 12593, no of features (M): 784, no of test examples (N_test): 2109
+16: mystart_index: 6304
+0: mystart_index: 0
+17: mystart_index: 6698
+18: mystart_index: 7091
+2: mystart_index: 788
+20: mystart_index: 7877
+1: mystart_index: 394
+4: mystart_index: 1576
+24: mystart_index: 9449
+8: mystart_index: 3152
+26: mystart_index: 10235
+10: mystart_index: 3940
+25: mystart_index: 9842
+9: mystart_index: 3546
+22: mystart_index: 8663
+21: mystart_index: 8270
+6: mystart_index: 2364
+28: mystart_index: 11021
+5: mystart_index: 1970
+12: mystart_index: 4728
+19: mystart_index: 7484
+3: mystart_index: 1182
+14: mystart_index: 5516
+30: mystart_index: 11807
+29: mystart_index: 11414
+23: mystart_index: 9056
+13: mystart_index: 5122
+7: mystart_index: 2758
+27: mystart_index: 10628
+11: mystart_index: 4334
+31: mystart_index: 12200
+15: mystart_index: 5910
+1: gama value: 3e-08
+2: gama value: 3e-08
+3: gama value: 3e-08
+4: gama value: 3e-08
+5: gama value: 3e-08
+6: gama value: 3e-08
+7: gama value: 3e-08
+8: gama value: 3e-08
+9: gama value: 3e-08
+10: gama value: 3e-08
+11: gama value: 3e-08
+12: gama value: 3e-08
+13: gama value: 3e-08
+14: gama value: 3e-08
+15: gama value: 3e-08
+16: gama value: 3e-08
+17: gama value: 3e-08
+18: gama value: 3e-08
+19: gama value: 3e-08
+20: gama value: 3e-08
+21: gama value: 3e-08
+22: gama value: 3e-08
+23: gama value: 3e-08
+24: gama value: 3e-08
+25: gama value: 3e-08
+26: gama value: 3e-08
+27: gama value: 3e-08
+28: gama value: 3e-08
+29: gama value: 3e-08
+0: gama value: 3e-08
+30: gama value: 3e-08
+31: gama value: 3e-08
+0: Returned from SMO
+0: b_up and b_low: -1.08457 0.0232477
+6: Returned from SMO
+1: Returned from SMO
+3: Returned from SMO
+27: Returned from SMO
+4: Returned from SMO
+30: Returned from SMO
+28: Returned from SMO
+14: Returned from SMO
+26: Returned from SMO
+18: Returned from SMO
+17: Returned from SMO
+13: Returned from SMO
+10: Returned from SMO
+22: Returned from SMO
+31: Returned from SMO
+16: Returned from SMO
+19: Returned from SMO
+9: Returned from SMO
+23: Returned from SMO
+24: Returned from SMO
+25: Returned from SMO
+15: Returned from SMO
+20: Returned from SMO
+12: Returned from SMO
+8: Returned from SMO
+21: Returned from SMO
+5: Returned from SMO
+29: Returned from SMO
+2: Returned from SMO
+11: Returned from SMO
+7: Returned from SMO
+
+real	0m6.057s
+user	0m4.565s
+sys	0m0.602s

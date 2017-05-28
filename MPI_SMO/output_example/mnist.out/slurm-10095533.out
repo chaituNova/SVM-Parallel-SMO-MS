@@ -1,0 +1,40 @@
+openmpi/gnu/4.8.1/1.8.6(12):ERROR:150: Module 'openmpi/gnu/4.8.1/1.8.6' conflicts with the currently loaded module(s) 'openmpi/gnu/4.6.1/1.6.5'
+openmpi/gnu/4.8.1/1.8.6(12):ERROR:102: Tcl command execution failed: source "$moduledir/../../common"
+
+dtst:0 node:4 proc:8
+Training Vector size: 60000
+Training Vector feature dimension: 784
+Training Label Vector size: 60000
+Test Vector size: 10000
+Test Vector feature dimension: 784
+Test Label Vector size: 10000
+Extraction done !, no of training examples (N): 12593, no of features (M): 784, no of test examples (N_test): 2109
+0: mystart_index: 0
+1: mystart_index: 1575
+4: mystart_index: 6297
+5: mystart_index: 7871
+3: mystart_index: 4723
+7: mystart_index: 11019
+2: mystart_index: 3149
+6: mystart_index: 9445
+1: gama value: 3e-08
+2: gama value: 3e-08
+3: gama value: 3e-08
+4: gama value: 3e-08
+5: gama value: 3e-08
+6: gama value: 3e-08
+0: gama value: 3e-08
+7: gama value: 3e-08
+1: Returned from SMO
+0: Returned from SMO
+0: b_up and b_low: -1.08457 0.0232477
+4: Returned from SMO
+3: Returned from SMO
+6: Returned from SMO
+5: Returned from SMO
+2: Returned from SMO
+7: Returned from SMO
+
+real	0m10.772s
+user	0m17.636s
+sys	0m0.497s

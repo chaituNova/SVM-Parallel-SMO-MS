@@ -1,0 +1,79 @@
+openmpi/gnu/4.8.1/1.8.6(12):ERROR:150: Module 'openmpi/gnu/4.8.1/1.8.6' conflicts with the currently loaded module(s) 'openmpi/gnu/4.6.1/1.6.5'
+openmpi/gnu/4.8.1/1.8.6(12):ERROR:102: Tcl command execution failed: source "$moduledir/../../common"
+
+dtst:1 node:2 proc:8 trd:4
+SMO path: /lustre/cmsc714-1bvg/SMO_alg_code_Hybrid/smo
+Setting number of threads to: 4
+Setting number of threads to: 4
+Setting number of threads to: 4
+Setting number of threads to: 4
+Setting number of threads to: 4
+Setting number of threads to: 4
+Setting number of threads to: 4
+Setting number of threads to: 4
+2232
+60
+2232
+958
+60
+958
+Extraction done !, no of training examples (N): 1063, no of features (M): 60, no of test examples (N_test): 0
+Number of gamma values in node 1: 4
+Number of gamma values in node 3: 4
+Number of gamma values in node 2: 4
+Total number of gamma values: 30
+Total number of C values: 30
+Number of gamma values in node 0: 4
+Number of gamma values in node 7: 3
+Number of gamma values in node 5: 4
+Number of gamma values in node 6: 3
+Number of gamma values in node 4: 4
+New optimum model found in process 5!!gamma_values: 3.1623e-05C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 6!!gamma_values: 0.00025119C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 2!!gamma_values: 6.30959e-08C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 4!!gamma_values: 3.98109e-06C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 7!!gamma_values: 0.00199528C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 0!!gamma_values: 1e-09C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 3!!gamma_values: 5.01189e-07C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 1!!gamma_values: 7.94329e-09C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 6!!gamma_values: 0.00025119C: 0.25119Best Accuracy: 0.819915
+New optimum model found in process 6!!gamma_values: 0.00025119C: 0.50119Best Accuracy: 0.891949
+New optimum model found in process 7!!gamma_values: 0.00199528C: 0.031623Best Accuracy: 0.595339
+New optimum model found in process 7!!gamma_values: 0.00199528C: 0.0630961Best Accuracy: 0.887712
+New optimum model found in process 7!!gamma_values: 0.00199528C: 0.125893Best Accuracy: 0.896186
+New optimum model found in process 7!!gamma_values: 0.00199528C: 0.25119Best Accuracy: 0.900424
+New optimum model found in process 6!!gamma_values: 0.000501191C: 0.50119Best Accuracy: 0.896186
+New optimum model found in process 7!!gamma_values: 0.0039811C: 0.125893Best Accuracy: 0.902542
+New optimum model found in process 6!!gamma_values: 0.00100001C: 0.25119Best Accuracy: 0.898305
+New optimum model found in process 5!!gamma_values: 0.000125893C: 0.50119Best Accuracy: 0.826271
+New optimum model found in process 6!!gamma_values: 0.00100001C: 0.50119Best Accuracy: 0.900424
+Optimum values for node 6!! gamma_values: 0.00100001 C: 0.50119 Best Accuracy: 0.900424
+Optimum values for node 7!! gamma_values: 0.0039811 C: 0.125893 Best Accuracy: 0.902542
+New optimum model found in process 2!!gamma_values: 0.0630961C: 0.125893Best Accuracy: 0.483051
+New optimum model found in process 2!!gamma_values: 0.0630961C: 0.25119Best Accuracy: 0.561441
+New optimum model found in process 2!!gamma_values: 0.0630961C: 0.50119Best Accuracy: 0.735169
+Optimum values for node 2!! gamma_values: 0.0630961 C: 0.50119 Best Accuracy: 0.735169
+New optimum model found in process 3!!gamma_values: 0.125893C: 0.125893Best Accuracy: 0.483051
+New optimum model found in process 3!!gamma_values: 0.125893C: 0.25119Best Accuracy: 0.533898
+New optimum model found in process 3!!gamma_values: 0.125893C: 0.50119Best Accuracy: 0.627119
+Optimum values for node 3!! gamma_values: 0.125893 C: 0.50119 Best Accuracy: 0.627119
+Optimum values for node 5!! gamma_values: 0.000125893 C: 0.50119 Best Accuracy: 0.826271
+New optimum model found in process 1!!gamma_values: 0.031623C: 0.0630961Best Accuracy: 0.497881
+New optimum model found in process 4!!gamma_values: 0.25119C: 0.25119Best Accuracy: 0.516949
+New optimum model found in process 1!!gamma_values: 0.031623C: 0.125893Best Accuracy: 0.864407
+New optimum model found in process 4!!gamma_values: 0.25119C: 0.50119Best Accuracy: 0.603814
+Optimum values for node 4!! gamma_values: 0.25119 C: 0.50119 Best Accuracy: 0.603814
+New optimum model found in process 1!!gamma_values: 0.031623C: 0.25119Best Accuracy: 0.911017
+New optimum model found in process 0!!gamma_values: 0.015849C: 0.031623Best Accuracy: 0.769068
+New optimum model found in process 0!!gamma_values: 0.015849C: 0.0630961Best Accuracy: 0.891949
+New optimum model found in process 1!!gamma_values: 0.031623C: 0.50119Best Accuracy: 0.917373
+Optimum values for node 1!! gamma_values: 0.031623 C: 0.50119 Best Accuracy: 0.917373
+New optimum model found in process 0!!gamma_values: 0.015849C: 0.125893Best Accuracy: 0.904661
+New optimum model found in process 0!!gamma_values: 0.015849C: 0.25119Best Accuracy: 0.90678
+New optimum model found in process 0!!gamma_values: 0.015849C: 0.50119Best Accuracy: 0.913136
+Optimum values for node 0!! gamma_values: 0.015849 C: 0.50119 Best Accuracy: 0.913136
+Best Model Parameters: Gamma = 0.031623 C = 0.50119 Accuracy = 0.917373
+
+real	0m6.729s
+user	1m15.433s
+sys	0m0.449s

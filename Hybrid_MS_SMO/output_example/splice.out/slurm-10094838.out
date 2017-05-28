@@ -1,0 +1,281 @@
+openmpi/gnu/4.8.1/1.8.6(12):ERROR:150: Module 'openmpi/gnu/4.8.1/1.8.6' conflicts with the currently loaded module(s) 'openmpi/gnu/4.6.1/1.6.5'
+openmpi/gnu/4.8.1/1.8.6(12):ERROR:102: Tcl command execution failed: source "$moduledir/../../common"
+
+dtst:1 node:8 proc:64 trd:1
+SMO path: /lustre/cmsc714-1bvg/SMO_alg_code_Hybrid/smo
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+Setting number of threads to: 1
+2232
+60
+2232
+958
+60
+958
+Extraction done !, no of training examples (N): 1063, no of features (M): 60, no of test examples (N_test): 0
+Number of gamma values in node 2: 1
+Number of gamma values in node 1: 1
+Number of gamma values in node 3: 1
+Number of gamma values in node 4: 1
+Number of gamma values in node 5: 1
+Number of gamma values in node 7: 1
+Number of gamma values in node 6: 1
+Total number of gamma values: 30
+Total number of C values: 30
+Number of gamma values in node 0: 1
+Number of gamma values in node 56: 0
+Optimum values for node 56!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 24: 1
+Number of gamma values in node 57: 0
+Optimum values for node 57!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 25: 1
+Number of gamma values in node 58: 0
+Optimum values for node 58!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 48: 0
+Optimum values for node 48!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 41: 0
+Optimum values for node 41!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 26: 1
+Number of gamma values in node 59: 0
+Optimum values for node 59!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 49: 0
+Optimum values for node 49!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 42: 0
+Optimum values for node 42!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 27: 1
+Number of gamma values in node 60: 0
+Optimum values for node 60!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 50: 0
+Optimum values for node 50!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 43: 0
+Optimum values for node 43!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 28: 1
+Number of gamma values in node 34: 0
+Optimum values for node 34!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 61: 0
+Optimum values for node 61!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 51: 0
+Optimum values for node 51!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 44: 0
+Optimum values for node 44!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 29: 1
+Number of gamma values in node 35: 0
+Optimum values for node 35!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 10: 1
+Number of gamma values in node 21: 1
+Number of gamma values in node 52: 0
+Optimum values for node 52!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 45: 0
+Optimum values for node 45!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 30: 0
+Optimum values for node 30!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 36: 0
+Optimum values for node 36!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 62: 0
+Optimum values for node 62!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 14: 1
+Number of gamma values in node 22: 1
+Number of gamma values in node 53: 0
+Optimum values for node 53!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 46: 0
+Optimum values for node 46!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 31: 0
+Optimum values for node 31!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 37: 0
+Optimum values for node 37!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 63: 0
+Optimum values for node 63!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 12: 1
+Number of gamma values in node 23: 1
+Number of gamma values in node 54: 0
+Optimum values for node 54!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 47: 0
+Optimum values for node 47!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 38: 0
+Optimum values for node 38!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 13: 1
+Number of gamma values in node 16: 1
+Number of gamma values in node 55: 0
+Optimum values for node 55!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 40: 0
+Optimum values for node 40!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 39: 0
+Optimum values for node 39!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 32: 0
+Optimum values for node 32!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 8: 1
+Number of gamma values in node 17: 1
+Number of gamma values in node 9: 1
+Number of gamma values in node 18: 1
+Number of gamma values in node 33: 0
+Optimum values for node 33!! gamma_values: 0 C: 0 Best Accuracy: 0
+Number of gamma values in node 11: 1
+Number of gamma values in node 19: 1
+Number of gamma values in node 15: 1
+Number of gamma values in node 20: 1
+New optimum model found in process 6!!gamma_values: 6.30959e-08C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 1!!gamma_values: 1.99526e-09C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 10!!gamma_values: 1e-06C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 22!!gamma_values: 0.0039811C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 2!!gamma_values: 3.98108e-09C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 16!!gamma_values: 6.30962e-05C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 19!!gamma_values: 0.000501191C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 8!!gamma_values: 2.5119e-07C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 23!!gamma_values: 0.00794333C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 15!!gamma_values: 3.1623e-05C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 17!!gamma_values: 0.000125893C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 9!!gamma_values: 5.01189e-07C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 21!!gamma_values: 0.00199528C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 7!!gamma_values: 1.25893e-07C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 24!!gamma_values: 0.015849C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 25!!gamma_values: 0.031623C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 3!!gamma_values: 7.94329e-09C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 4!!gamma_values: 1.5849e-08C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 5!!gamma_values: 3.16228e-08C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 12!!gamma_values: 3.98109e-06C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 28!!gamma_values: 0.25119C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 26!!gamma_values: 0.0630961C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 13!!gamma_values: 7.94333e-06C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 11!!gamma_values: 1.99527e-06C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 18!!gamma_values: 0.00025119C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 27!!gamma_values: 0.125893C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 20!!gamma_values: 0.00100001C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 14!!gamma_values: 1.5849e-05C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 0!!gamma_values: 1e-09C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 29!!gamma_values: 0.50119C: 1e-09Best Accuracy: 0.480932
+New optimum model found in process 23!!gamma_values: 0.00794333C: 0.015849Best Accuracy: 0.493644
+New optimum model found in process 24!!gamma_values: 0.015849C: 0.031623Best Accuracy: 0.769068
+New optimum model found in process 22!!gamma_values: 0.0039811C: 0.031623Best Accuracy: 0.866525
+New optimum model found in process 23!!gamma_values: 0.00794333C: 0.031623Best Accuracy: 0.891949
+New optimum model found in process 21!!gamma_values: 0.00199528C: 0.031623Best Accuracy: 0.595339
+New optimum model found in process 24!!gamma_values: 0.015849C: 0.0630961Best Accuracy: 0.891949
+New optimum model found in process 22!!gamma_values: 0.0039811C: 0.0630961Best Accuracy: 0.891949
+New optimum model found in process 23!!gamma_values: 0.00794333C: 0.0630961Best Accuracy: 0.894068
+New optimum model found in process 22!!gamma_values: 0.0039811C: 0.125893Best Accuracy: 0.902542
+New optimum model found in process 24!!gamma_values: 0.015849C: 0.125893Best Accuracy: 0.904661
+New optimum model found in process 25!!gamma_values: 0.031623C: 0.0630961Best Accuracy: 0.497881
+New optimum model found in process 21!!gamma_values: 0.00199528C: 0.0630961Best Accuracy: 0.887712
+New optimum model found in process 26!!gamma_values: 0.0630961C: 0.125893Best Accuracy: 0.483051
+New optimum model found in process 20!!gamma_values: 0.00100001C: 0.0630961Best Accuracy: 0.75
+New optimum model found in process 27!!gamma_values: 0.125893C: 0.125893Best Accuracy: 0.483051
+New optimum model found in process 23!!gamma_values: 0.00794333C: 0.125893Best Accuracy: 0.902542
+New optimum model found in process 24!!gamma_values: 0.015849C: 0.25119Best Accuracy: 0.90678
+New optimum model found in process 21!!gamma_values: 0.00199528C: 0.125893Best Accuracy: 0.896186
+New optimum model found in process 25!!gamma_values: 0.031623C: 0.125893Best Accuracy: 0.864407
+New optimum model found in process 28!!gamma_values: 0.25119C: 0.25119Best Accuracy: 0.516949
+New optimum model found in process 19!!gamma_values: 0.000501191C: 0.125893Best Accuracy: 0.800847
+Optimum values for node 1!! gamma_values: 1.99526e-09 C: 1e-09 Best Accuracy: 0.480932
+New optimum model found in process 20!!gamma_values: 0.00100001C: 0.125893Best Accuracy: 0.889831
+Optimum values for node 22!! gamma_values: 0.0039811 C: 0.125893 Best Accuracy: 0.902542
+New optimum model found in process 26!!gamma_values: 0.0630961C: 0.25119Best Accuracy: 0.561441
+Optimum values for node 6!! gamma_values: 6.30959e-08 C: 1e-09 Best Accuracy: 0.480932
+New optimum model found in process 27!!gamma_values: 0.125893C: 0.25119Best Accuracy: 0.533898
+Optimum values for node 9!! gamma_values: 5.01189e-07 C: 1e-09 Best Accuracy: 0.480932
+New optimum model found in process 21!!gamma_values: 0.00199528C: 0.25119Best Accuracy: 0.900424
+Optimum values for node 2!! gamma_values: 3.98108e-09 C: 1e-09 Best Accuracy: 0.480932
+Optimum values for node 12!! gamma_values: 3.98109e-06 C: 1e-09 Best Accuracy: 0.480932
+Optimum values for node 8!! gamma_values: 2.5119e-07 C: 1e-09 Best Accuracy: 0.480932
+New optimum model found in process 25!!gamma_values: 0.031623C: 0.25119Best Accuracy: 0.911017
+New optimum model found in process 24!!gamma_values: 0.015849C: 0.50119Best Accuracy: 0.913136
+Optimum values for node 24!! gamma_values: 0.015849 C: 0.50119 Best Accuracy: 0.913136
+Optimum values for node 3!! gamma_values: 7.94329e-09 C: 1e-09 Best Accuracy: 0.480932
+Optimum values for node 23!! gamma_values: 0.00794333 C: 0.125893 Best Accuracy: 0.902542
+New optimum model found in process 19!!gamma_values: 0.000501191C: 0.25119Best Accuracy: 0.891949
+New optimum model found in process 20!!gamma_values: 0.00100001C: 0.25119Best Accuracy: 0.898305
+New optimum model found in process 18!!gamma_values: 0.00025119C: 0.25119Best Accuracy: 0.819915
+New optimum model found in process 28!!gamma_values: 0.25119C: 0.50119Best Accuracy: 0.603814
+Optimum values for node 28!! gamma_values: 0.25119 C: 0.50119 Best Accuracy: 0.603814
+Optimum values for node 0!! gamma_values: 1e-09 C: 1e-09 Best Accuracy: 0.480932
+Optimum values for node 16!! gamma_values: 6.30962e-05 C: 1e-09 Best Accuracy: 0.480932
+New optimum model found in process 17!!gamma_values: 0.000125893C: 0.50119Best Accuracy: 0.826271
+Optimum values for node 17!! gamma_values: 0.000125893 C: 0.50119 Best Accuracy: 0.826271
+Optimum values for node 13!! gamma_values: 7.94333e-06 C: 1e-09 Best Accuracy: 0.480932
+Optimum values for node 21!! gamma_values: 0.00199528 C: 0.25119 Best Accuracy: 0.900424
+Optimum values for node 11!! gamma_values: 1.99527e-06 C: 1e-09 Best Accuracy: 0.480932
+New optimum model found in process 26!!gamma_values: 0.0630961C: 0.50119Best Accuracy: 0.735169
+Optimum values for node 26!! gamma_values: 0.0630961 C: 0.50119 Best Accuracy: 0.735169
+Optimum values for node 5!! gamma_values: 3.16228e-08 C: 1e-09 Best Accuracy: 0.480932
+Optimum values for node 14!! gamma_values: 1.5849e-05 C: 1e-09 Best Accuracy: 0.480932
+Optimum values for node 7!! gamma_values: 1.25893e-07 C: 1e-09 Best Accuracy: 0.480932
+Optimum values for node 4!! gamma_values: 1.5849e-08 C: 1e-09 Best Accuracy: 0.480932
+New optimum model found in process 27!!gamma_values: 0.125893C: 0.50119Best Accuracy: 0.627119
+Optimum values for node 27!! gamma_values: 0.125893 C: 0.50119 Best Accuracy: 0.627119
+Optimum values for node 10!! gamma_values: 1e-06 C: 1e-09 Best Accuracy: 0.480932
+New optimum model found in process 20!!gamma_values: 0.00100001C: 0.50119Best Accuracy: 0.900424
+Optimum values for node 20!! gamma_values: 0.00100001 C: 0.50119 Best Accuracy: 0.900424
+New optimum model found in process 19!!gamma_values: 0.000501191C: 0.50119Best Accuracy: 0.896186
+Optimum values for node 19!! gamma_values: 0.000501191 C: 0.50119 Best Accuracy: 0.896186
+New optimum model found in process 18!!gamma_values: 0.00025119C: 0.50119Best Accuracy: 0.891949
+Optimum values for node 18!! gamma_values: 0.00025119 C: 0.50119 Best Accuracy: 0.891949
+Optimum values for node 15!! gamma_values: 3.1623e-05 C: 1e-09 Best Accuracy: 0.480932
+New optimum model found in process 25!!gamma_values: 0.031623C: 0.50119Best Accuracy: 0.917373
+Optimum values for node 25!! gamma_values: 0.031623 C: 0.50119 Best Accuracy: 0.917373
+New optimum model found in process 29!!gamma_values: 0.50119C: 0.25119Best Accuracy: 0.508475
+New optimum model found in process 29!!gamma_values: 0.50119C: 0.50119Best Accuracy: 0.591102
+Optimum values for node 29!! gamma_values: 0.50119 C: 0.50119 Best Accuracy: 0.591102
+Best Model Parameters: Gamma = 0.031623 C = 0.50119 Accuracy = 0.917373
+
+real	0m8.191s
+user	0m35.047s
+sys	0m0.707s

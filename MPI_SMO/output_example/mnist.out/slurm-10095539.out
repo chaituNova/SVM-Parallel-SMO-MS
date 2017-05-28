@@ -1,0 +1,64 @@
+openmpi/gnu/4.8.1/1.8.6(12):ERROR:150: Module 'openmpi/gnu/4.8.1/1.8.6' conflicts with the currently loaded module(s) 'openmpi/gnu/4.6.1/1.6.5'
+openmpi/gnu/4.8.1/1.8.6(12):ERROR:102: Tcl command execution failed: source "$moduledir/../../common"
+
+dtst:0 node:8 proc:16
+Training Vector size: 60000
+Training Vector feature dimension: 784
+Training Label Vector size: 60000
+Test Vector size: 10000
+Test Vector feature dimension: 784
+Test Label Vector size: 10000
+Extraction done !, no of training examples (N): 12593, no of features (M): 784, no of test examples (N_test): 2109
+0: mystart_index: 0
+8: mystart_index: 6297
+1: mystart_index: 788
+9: mystart_index: 7084
+12: mystart_index: 9445
+4: mystart_index: 3149
+3: mystart_index: 2362
+11: mystart_index: 8658
+2: mystart_index: 1575
+10: mystart_index: 7871
+13: mystart_index: 10232
+5: mystart_index: 3936
+15: mystart_index: 11806
+7: mystart_index: 5510
+14: mystart_index: 11019
+6: mystart_index: 4723
+1: gama value: 3e-08
+2: gama value: 3e-08
+3: gama value: 3e-08
+4: gama value: 3e-08
+5: gama value: 3e-08
+6: gama value: 3e-08
+7: gama value: 3e-08
+8: gama value: 3e-08
+9: gama value: 3e-08
+10: gama value: 3e-08
+11: gama value: 3e-08
+12: gama value: 3e-08
+13: gama value: 3e-08
+14: gama value: 3e-08
+0: gama value: 3e-08
+15: gama value: 3e-08
+1: Returned from SMO
+0: Returned from SMO
+0: b_up and b_low: -1.08457 0.0232477
+15: Returned from SMO
+2: Returned from SMO
+5: Returned from SMO
+12: Returned from SMO
+10: Returned from SMO
+8: Returned from SMO
+7: Returned from SMO
+4: Returned from SMO
+13: Returned from SMO
+11: Returned from SMO
+9: Returned from SMO
+6: Returned from SMO
+14: Returned from SMO
+3: Returned from SMO
+
+real	0m8.491s
+user	0m12.943s
+sys	0m0.403s

@@ -1,0 +1,400 @@
+openmpi/gnu/4.8.1/1.8.6(12):ERROR:150: Module 'openmpi/gnu/4.8.1/1.8.6' conflicts with the currently loaded module(s) 'openmpi/gnu/4.6.1/1.6.5'
+openmpi/gnu/4.8.1/1.8.6(12):ERROR:102: Tcl command execution failed: source "$moduledir/../../common"
+
+dtst:0 node:8 proc:128
+Training Vector size: 60000
+Training Vector feature dimension: 784
+Training Label Vector size: 60000
+Test Vector size: 10000
+Test Vector feature dimension: 784
+Test Label Vector size: 10000
+Extraction done !, no of training examples (N): 12593, no of features (M): 784, no of test examples (N_test): 2109
+14: mystart_index: 1386
+4: mystart_index: 396
+68: mystart_index: 6713
+12: mystart_index: 1188
+78: mystart_index: 7693
+76: mystart_index: 7497
+6: mystart_index: 594
+3: mystart_index: 297
+67: mystart_index: 6615
+70: mystart_index: 6909
+11: mystart_index: 1089
+75: mystart_index: 7399
+8: mystart_index: 792
+72: mystart_index: 7105
+1: mystart_index: 99
+15: mystart_index: 1485
+79: mystart_index: 7791
+13: mystart_index: 1287
+65: mystart_index: 6419
+77: mystart_index: 7595
+10: mystart_index: 990
+0: mystart_index: 0
+74: mystart_index: 7301
+64: mystart_index: 6321
+2: mystart_index: 198
+66: mystart_index: 6517
+5: mystart_index: 495
+7: mystart_index: 693
+71: mystart_index: 7007
+69: mystart_index: 6811
+9: mystart_index: 891
+73: mystart_index: 7203
+111: mystart_index: 10927
+47: mystart_index: 4653
+108: mystart_index: 10633
+38: mystart_index: 3762
+44: mystart_index: 4356
+102: mystart_index: 10045
+106: mystart_index: 10437
+109: mystart_index: 10731
+42: mystart_index: 4158
+45: mystart_index: 4455
+43: mystart_index: 4257
+107: mystart_index: 10535
+95: mystart_index: 9359
+31: mystart_index: 3069
+97: mystart_index: 9555
+33: mystart_index: 3267
+104: mystart_index: 10241
+40: mystart_index: 3960
+98: mystart_index: 9653
+34: mystart_index: 3366
+35: mystart_index: 3465
+99: mystart_index: 9751
+36: mystart_index: 3564
+100: mystart_index: 9849
+110: mystart_index: 10829
+46: mystart_index: 4554
+105: mystart_index: 10339
+41: mystart_index: 4059
+96: mystart_index: 9457
+103: mystart_index: 10143
+32: mystart_index: 3168
+39: mystart_index: 3861
+124: mystart_index: 12201
+60: mystart_index: 5929
+101: mystart_index: 9947
+37: mystart_index: 3663
+80: mystart_index: 7889
+52: mystart_index: 5145
+116: mystart_index: 11417
+58: mystart_index: 5733
+122: mystart_index: 12005
+59: mystart_index: 5831
+123: mystart_index: 12103
+63: mystart_index: 6223
+127: mystart_index: 12495
+16: mystart_index: 1584
+89: mystart_index: 8771
+18: mystart_index: 1782
+82: mystart_index: 8085
+22: mystart_index: 2178
+86: mystart_index: 8477
+85: mystart_index: 8379
+21: mystart_index: 2079
+23: mystart_index: 2277
+87: mystart_index: 8575
+92: mystart_index: 9065
+90: mystart_index: 8869
+94: mystart_index: 9261
+30: mystart_index: 2970
+26: mystart_index: 2574
+28: mystart_index: 2772
+83: mystart_index: 8183
+84: mystart_index: 8281
+19: mystart_index: 1881
+20: mystart_index: 1980
+17: mystart_index: 1683
+81: mystart_index: 7987
+93: mystart_index: 9163
+29: mystart_index: 2871
+27: mystart_index: 2673
+91: mystart_index: 8967
+118: mystart_index: 11613
+54: mystart_index: 5341
+125: mystart_index: 12299
+113: mystart_index: 11123
+114: mystart_index: 11221
+50: mystart_index: 4949
+61: mystart_index: 6027
+49: mystart_index: 4851
+88: mystart_index: 8673
+24: mystart_index: 2376
+25: mystart_index: 2475
+57: mystart_index: 5635
+121: mystart_index: 11907
+48: mystart_index: 4752
+112: mystart_index: 11025
+53: mystart_index: 5243
+117: mystart_index: 11515
+126: mystart_index: 12397
+62: mystart_index: 6125
+119: mystart_index: 11711
+55: mystart_index: 5439
+120: mystart_index: 11809
+56: mystart_index: 5537
+51: mystart_index: 5047
+115: mystart_index: 11319
+1: gama value: 3e-08
+2: gama value: 3e-08
+3: gama value: 3e-08
+6: gama value: 3e-08
+5: gama value: 3e-08
+7: gama value: 3e-08
+4: gama value: 3e-08
+8: gama value: 3e-08
+14: gama value: 3e-08
+12: gama value: 3e-08
+11: gama value: 3e-08
+13: gama value: 3e-08
+10: gama value: 3e-08
+9: gama value: 3e-08
+15: gama value: 3e-08
+16: gama value: 3e-08
+17: gama value: 3e-08
+19: gama value: 3e-08
+18: gama value: 3e-08
+22: gama value: 3e-08
+21: gama value: 3e-08
+20: gama value: 3e-08
+25: gama value: 3e-08
+24: gama value: 3e-08
+23: gama value: 3e-08
+26: gama value: 3e-08
+28: gama value: 3e-08
+27: gama value: 3e-08
+30: gama value: 3e-08
+34: gama value: 3e-08
+29: gama value: 3e-08
+32: gama value: 3e-08
+31: gama value: 3e-08
+33: gama value: 3e-08
+37: gama value: 3e-08
+35: gama value: 3e-08
+36: gama value: 3e-08
+40: gama value: 3e-08
+39: gama value: 3e-08
+38: gama value: 3e-08
+44: gama value: 3e-08
+42: gama value: 3e-08
+41: gama value: 3e-08
+43: gama value: 3e-08
+47: gama value: 3e-08
+46: gama value: 3e-08
+45: gama value: 3e-08
+48: gama value: 3e-08
+49: gama value: 3e-08
+50: gama value: 3e-08
+51: gama value: 3e-08
+53: gama value: 3e-08
+54: gama value: 3e-08
+52: gama value: 3e-08
+57: gama value: 3e-08
+56: gama value: 3e-08
+55: gama value: 3e-08
+58: gama value: 3e-08
+60: gama value: 3e-08
+59: gama value: 3e-08
+61: gama value: 3e-08
+63: gama value: 3e-08
+62: gama value: 3e-08
+64: gama value: 3e-08
+66: gama value: 3e-08
+65: gama value: 3e-08
+67: gama value: 3e-08
+69: gama value: 3e-08
+68: gama value: 3e-08
+70: gama value: 3e-08
+73: gama value: 3e-08
+71: gama value: 3e-08
+72: gama value: 3e-08
+74: gama value: 3e-08
+75: gama value: 3e-08
+76: gama value: 3e-08
+77: gama value: 3e-08
+78: gama value: 3e-08
+79: gama value: 3e-08
+80: gama value: 3e-08
+82: gama value: 3e-08
+81: gama value: 3e-08
+83: gama value: 3e-08
+84: gama value: 3e-08
+86: gama value: 3e-08
+85: gama value: 3e-08
+87: gama value: 3e-08
+89: gama value: 3e-08
+88: gama value: 3e-08
+90: gama value: 3e-08
+91: gama value: 3e-08
+92: gama value: 3e-08
+93: gama value: 3e-08
+95: gama value: 3e-08
+94: gama value: 3e-08
+96: gama value: 3e-08
+97: gama value: 3e-08
+98: gama value: 3e-08
+99: gama value: 3e-08
+100: gama value: 3e-08
+105: gama value: 3e-08
+107: gama value: 3e-08
+104: gama value: 3e-08
+103: gama value: 3e-08
+101: gama value: 3e-08
+102: gama value: 3e-08
+106: gama value: 3e-08
+108: gama value: 3e-08
+110: gama value: 3e-08
+109: gama value: 3e-08
+111: gama value: 3e-08
+113: gama value: 3e-08
+112: gama value: 3e-08
+114: gama value: 3e-08
+115: gama value: 3e-08
+116: gama value: 3e-08
+117: gama value: 3e-08
+119: gama value: 3e-08
+118: gama value: 3e-08
+120: gama value: 3e-08
+122: gama value: 3e-08
+123: gama value: 3e-08
+121: gama value: 3e-08
+124: gama value: 3e-08
+0: gama value: 3e-08
+127: gama value: 3e-08
+126: gama value: 3e-08
+125: gama value: 3e-08
+0: Returned from SMO
+0: b_up and b_low: -1.08457 0.0232477
+4: Returned from SMO
+15: Returned from SMO
+3: Returned from SMO
+8: Returned from SMO
+1: Returned from SMO
+14: Returned from SMO
+6: Returned from SMO
+12: Returned from SMO
+5: Returned from SMO
+9: Returned from SMO
+2: Returned from SMO
+7: Returned from SMO
+11: Returned from SMO
+13: Returned from SMO
+10: Returned from SMO
+21: Returned from SMO
+112: Returned from SMO
+20: Returned from SMO
+115: Returned from SMO
+107: Returned from SMO
+39: Returned from SMO
+72: Returned from SMO
+59: Returned from SMO
+94: Returned from SMO
+26: Returned from SMO
+120: Returned from SMO
+97: Returned from SMO
+44: Returned from SMO
+78: Returned from SMO
+53: Returned from SMO
+93: Returned from SMO
+17: Returned from SMO
+119: Returned from SMO
+98: Returned from SMO
+35: Returned from SMO
+70: Returned from SMO
+57: Returned from SMO
+83: Returned from SMO
+18: Returned from SMO
+116: Returned from SMO
+104: Returned from SMO
+45: Returned from SMO
+75: Returned from SMO
+58: Returned from SMO
+87: Returned from SMO
+19: Returned from SMO
+122: Returned from SMO
+106: Returned from SMO
+42: Returned from SMO
+73: Returned from SMO
+50: Returned from SMO
+95: Returned from SMO
+22: Returned from SMO
+125: Returned from SMO
+103: Returned from SMO
+41: Returned from SMO
+65: Returned from SMO
+61: Returned from SMO
+81: Returned from SMO
+28: Returned from SMO
+123: Returned from SMO
+96: Returned from SMO
+36: Returned from SMO
+64: Returned from SMO
+63: Returned from SMO
+84: Returned from SMO
+25: Returned from SMO
+126: Returned from SMO
+108: Returned from SMO
+33: Returned from SMO
+74: Returned from SMO
+56: Returned from SMO
+80: Returned from SMO
+27: Returned from SMO
+114: Returned from SMO
+101: Returned from SMO
+37: Returned from SMO
+67: Returned from SMO
+48: Returned from SMO
+86: Returned from SMO
+90: Returned from SMO
+118: Returned from SMO
+110: Returned from SMO
+40: Returned from SMO
+76: Returned from SMO
+54: Returned from SMO
+89: Returned from SMO
+121: Returned from SMO
+109: Returned from SMO
+68: Returned from SMO
+55: Returned from SMO
+30: Returned from SMO
+113: Returned from SMO
+102: Returned from SMO
+43: Returned from SMO
+77: Returned from SMO
+49: Returned from SMO
+91: Returned from SMO
+23: Returned from SMO
+124: Returned from SMO
+99: Returned from SMO
+34: Returned from SMO
+66: Returned from SMO
+51: Returned from SMO
+92: Returned from SMO
+16: Returned from SMO
+127: Returned from SMO
+111: Returned from SMO
+32: Returned from SMO
+69: Returned from SMO
+60: Returned from SMO
+85: Returned from SMO
+24: Returned from SMO
+117: Returned from SMO
+100: Returned from SMO
+47: Returned from SMO
+71: Returned from SMO
+62: Returned from SMO
+82: Returned from SMO
+31: Returned from SMO
+105: Returned from SMO
+38: Returned from SMO
+79: Returned from SMO
+52: Returned from SMO
+88: Returned from SMO
+29: Returned from SMO
+46: Returned from SMO
+
+real	0m8.189s
+user	1m16.916s
+sys	0m1.951s
